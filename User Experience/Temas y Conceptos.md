@@ -1,10 +1,5 @@
 # UX: Temas y Conceptos
 
-Cupidatat dolore irure voluptate magna tempor irure aute minim eiusmod
-amet. Ex cupidatat magna nisi in Lorem. Officia nostrud magna ea eu id
-sunt ea do nulla veniam eiusmod amet sit. Duis eu nostrud consectetur
-aliqua amet id occaecat minim culpa reprehenderit aliquip voluptate.
-
 ### Temas
 
 * ¿Qué es UX (Experiencia de Usuario)?
